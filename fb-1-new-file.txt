@@ -1,1 +1,7 @@
 Added this file on fb-1.
+
+
+
+There is a bug on this file after v1.0 tagged.
+
+Fixed this bug on bugfix branch created out of v1.0
